@@ -83,7 +83,8 @@ namespace Intensive
 
                 if (!File.Exists("source.txt"))
                 {
-                    Console.WriteLine("File not exists totally!!!");
+
+                    Console.WriteLine("File not exists completely!!!! totally!!!");
                     return;
                 }
                 //Читаем файл
